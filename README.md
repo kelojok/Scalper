@@ -11,3 +11,5 @@ The scraper class uses Chromedriver to spawn a window and inspect selected conte
 ## Setup instructions
 Just add your address in the worker service (localhost) to contact the API and it should run smoothly.
 Make sure both projects are running at the same time. Right-click solution > properties > start several projects.
+
+I also have chrome version 98.0.4758.81 on my PC and chrome driver seems to be a bit sensitive to versions.
